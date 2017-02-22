@@ -1,0 +1,127 @@
+html{
+  border: solid;
+border-width: thick;}
+
+body {
+  background-color:  #808080;
+  }
+.backpicture {
+  background: url("https://www.accommodirect.com/blog/wp-content/upLoads/Table-Mountain.jpg");
+  border: solid;
+  border-width: medium;;
+  border-radius: 10px;
+  border-color: #F2F20D;
+}
+
+.city{
+  clear: both;
+  float:left;
+  border: solid;
+  border-color: #F2F20D;
+}
+
+.paris{
+  font-size: 40px;
+  color: #F2F20D;
+  border: solid;
+  border-radius: 10px;
+}
+#language{
+  font-size: 20px;
+}
+.mountain{border-radius: 5px;
+  clear: both;
+  float: right;
+}
+
+.table-mountain {
+  float: right;
+  margin-right: 85px;
+}
+
+h1 {color: purple;
+  display: inline-flex;
+  font-size: 50px;
+  padding: 20px;
+  margin-left: 35px
+}
+#paris {
+  margin-bottom: 150px;
+}
+
+.foreign{text-align: center;
+}
+
+.col-5{
+width: 50%;
+float:left;
+}
+
+.col-7{width: 50%;
+  float: right;
+}
+
+.row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+.place{color: #F2F20D;
+}
+#table{
+  font-size: 40px;
+  color: #F2F20D;
+  border: solid;
+  border-radius: 10px;
+}
+#hist{
+  font-size: 50px;
+  color: #F2F20D;
+  border: solid;
+  border-radius: 10px;
+}
+#trading{
+  font-size: 35px;
+  margin-top: 10px;
+  float: inherit;
+  color: #F2F20D;
+  border: solid;
+  border-radius: 10px;
+}
+#h3{
+  font-size: 40px;
+  color:#F2F20D;
+  margin-bottom: 250px
+
+}
+#image{
+  margin-top: -400px
+}
+#bridge{
+  margin-top: 300px;
+}
+#bridges{
+  margin-top: 300px;
+  font-size: 45px;
+  color: #F2F20D;
+  border: solid;
+  border-radius: 10px;
+}
+
+#bridge-image{
+  border: solid;
+  border-color: #F2F20D;
+}
+#margin{
+  list-style-position: inside;
+}
+table {
+  width: 50%;
+  text-align: center;
+}
+#td{
+  border-color: #F2F20D;
+}
+hr{
+  visibility: hidden;
+}
