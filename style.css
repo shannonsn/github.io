@@ -1,6 +1,8 @@
 html{
   border: solid;
-border-width: thick;}
+  border-width: thick;
+  border-color: #F2F20D;
+}
 
 body {
   background-color:  #808080;
@@ -12,12 +14,15 @@ body {
   border-radius: 10px;
   border-color: #F2F20D;
 }
-
+.margin{
+  align: center;
+}
 .city{
   clear: both;
   float:left;
   border: solid;
   border-color: #F2F20D;
+  border-radius: 10px;
 }
 
 .paris{
@@ -95,7 +100,10 @@ float:left;
 
 }
 #image{
-  margin-top: -400px
+  margin-top: -400px;
+  border: solid;
+  border-radius: 10px;
+  border-color: #F2F20D;
 }
 #bridge{
   margin-top: 300px;
@@ -111,9 +119,13 @@ float:left;
 #bridge-image{
   border: solid;
   border-color: #F2F20D;
+  border-bottom: 10px;
+  border-radius: 10px;
 }
-#margin{
-  list-style-position: inside;
+#port{
+  border: solid;
+  border-radius: 10px;
+  border-color: #F2F20D;
 }
 table {
   width: 50%;
