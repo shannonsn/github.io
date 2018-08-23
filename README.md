@@ -1,3 +1,3 @@
 # shannonsn.github.io
-### This is my basic first website
+### This is my first basic website
 #### Languages used basic HTML and CSS
